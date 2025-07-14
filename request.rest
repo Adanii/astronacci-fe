@@ -1,0 +1,20 @@
+###
+POST https://dcad3fbf2eb5.ngrok-free.app/api/auth/register 
+Content-Type: application/json
+
+{
+  "email": "adansafid@gmail.com",
+  "password": "Adaniafid2124!",
+  "displayName": "Adani Mstafid"
+}
+
+###
+POST https://77244c5833cf.ngrok-free.app/api/auth/login 
+Content-Type: application/json
+
+{
+  "email": "adaniafid@gmail.com",
+  "password": "Adaniafid2124!"
+
+}
+
